@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Talia
 
-<!--
-**talia-protasova/talia-protasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Engineer. 
+I work on the parts most people skip: 
+semantic structure, CSS architecture, accessibility. Angular and 
+TypeScript by day, Svelte by personal conviction.
 
-Here are some ideas to get you started:
+I build interfaces that hold up: readable six months later, 
+WCAG-compliant without a last-minute audit panic, and structured 
+so the next developer doesn't have to reverse-engineer your 
+intentions from 400 lines of utility classes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enterprise background: education, healthcare, online services. 
+The kind of products where "we'll fix it later" has real consequences.
+
+Creative pedant. I show up, meet deadlines, and actually care 
+about the people I ship with
+
+---
+
+### What I work with
+
+**Core:** Angular · TypeScript · HTML · CSS/SCSS  
+**Architecture:** BEM · ITCSS · design tokens · component systems  
+**Accessibility:** WCAG 2.1 · ARIA · Lighthouse · screen reader testing  
+**Tooling:** Git ·Playwright · Figma · REST APIs · RxJS  
+
+---
+
+### What I think about
+
+- Why CSS architecture fails, and how to build systems that don't
+- Accessibility as design constraint, not audit checklist
+- Users don't attend sprint planning. I do it for them.
+- Semantic HTML: the cheapest performance win nobody bothers with
