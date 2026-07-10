@@ -20,7 +20,7 @@ about the people I ship with
 
 ### What I work with
 
-**Core:** Angular · TypeScript · HTML · CSS/SCSS  
+**Core:** Angular · Vue · TypeScript · HTML · CSS/SCSS  
 **Architecture:** BEM · ITCSS · design tokens · component systems  
 **Accessibility:** WCAG 2.1 · ARIA · Lighthouse · screen reader testing  
 **Tooling:** Git ·Playwright · Figma · REST APIs · RxJS  
