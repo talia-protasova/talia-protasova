@@ -28,9 +28,7 @@ I'm endlessly curious and regularly find myself happily falling down rabbit hole
 | **Accessibility** | WCAG 2.2 · ARIA · keyboard navigation · screen reader support |
 | **Tooling & Testing** | Git · Playwright · Vitest · Figma |
 
-### Beyond the frontend
-
-I'm interested in how products work as a whole, from the code behind an interface to the data that helps us understand what people actually do with it.
+I'm also interested in how products work as a whole, from the code behind an interface to the data that helps us understand what people actually do with it.
 
 **Product Analytics:** SQL · product metrics · user behavior analysis · event tracking
 
